@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aliya Praveen 👋
 
-<!--
-**aliyapraveen123/aliyapraveen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **BCA 2nd Year student** with a strong interest in web development.  
+I enjoy learning new technologies and building projects to improve my practical and problem-solving skills.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript *(learning)*, React *(learning)*
+- **Backend:** Node.js *(learning)*
+- **Database:** MongoDB *(learning)*
+- **Tools:** Git, GitHub
+
+## 🌱 Currently Learning
+- JavaScript (advanced concepts)
+- React
+- Node.js & MongoDB
+- Full-stack development fundamentals
+
+## 💡 Interests
+- Web Development
+- Building real-world projects
+- Learning new technologies
+- Improving coding and problem-solving skills
+
+⭐ Always learning, building, and growing as a developer.
