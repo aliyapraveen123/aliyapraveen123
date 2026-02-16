@@ -1,4 +1,4 @@
-# Hi, I'm Aliya Praveen 👋
+# Hi, I'm Aliya Parveen 👋
 
 I'm a passionate **BCA 2nd Year student** with a strong interest in web development.  
 I enjoy learning new technologies and building projects to improve my practical and problem-solving skills.
