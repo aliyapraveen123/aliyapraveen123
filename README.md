@@ -5,14 +5,13 @@ I enjoy learning new technologies and building projects to improve my practical 
 
 ## 🚀 Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript *(learning)*, React *(learning)*
-- **Backend:** Node.js *(learning)*
-- **Database:** MongoDB *(learning)*
-- **Tools:** Git, GitHub
+- **Frontend:** HTML, CSS, JavaScript, React 
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, Postman
+- **App Development:** React Native(Basics)
 
 ## 🌱 Currently Learning
 - JavaScript (advanced concepts)
-- React
 - Node.js & MongoDB
 - Full-stack development fundamentals
 
